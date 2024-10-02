@@ -1,0 +1,22 @@
+#join{
+    font-size: 30px;
+}
+#exp{
+    font-size: 30px;
+}
+#here{
+    font-size: 30px;
+}
+#stay{
+    font-size: 30px;
+}
+* {
+    text-align: center;
+}
+html{
+    background-color: antiquewhite;
+} 
+h1{
+    color: maroon;
+    font-size: 60px;
+}  
